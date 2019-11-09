@@ -34,8 +34,6 @@ func (page *storyPage) addPageAfter(text string) {
 	page.nextPage = newPage
 }
 
-// TODO: delete
-
 func main() {
 	book := storyPage{"It was a dark and stormy night.", nil}
 	book.addPageToEnd("You are alone and need to find the secret scroll before Akatsuki does.")
