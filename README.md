@@ -1,4 +1,4 @@
-# My study code of Golang
+# My study codes of Golang
 I'm storying here all the code I'm doing on my first studies of the Go language. 
 
 ## References
